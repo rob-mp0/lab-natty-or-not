@@ -20,23 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Amor Cibernético: Convite de Casamento com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um convite de casamento digital, quase que totalmente desenvolvido com a ajuda de inteligência artificial. Utilizando ferramentas de IA para gerar o design visual, o texto, a narração em áudio e a música de fundo. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA's utilizadas:
+* ChatGPT para criar o texto. Alterei os nomes sugeridos apenas como forma de homenagem.
+* OpenArt para criar o template do convite.
+* Speechify para transformar o texto em narração.
+* AIVA para criar uma música de fundo.
+
+Ferramentas não-IA utilizadas:
+* Canva para inserir o texto, alterar a fonte e alinhar.
+* Clipchamp para juntar os arquivos em um só.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+* No inicio, utilizei o ChatGPT para criar o texto que seria apresentado no convite, que fosse romântico e elegante.
+* Em seguida, utilizei ao OpenArt para criar uma imagem que seria um convite de casamento e informei o que eu gostaria que tivesse nele,
+como as cores, elementos decorativos, estilo de textura.
+* Continuando, ultilizei o Speechify para que o convite fosse narrado por uma voz em portugês.
+* Após isso, utilizei o AIVA para criar uma música que harmonizasse com a ideia de casamento, utilizei as opções de estilo "Orquestra" e "Piano".
+* Para concluir, utilizei o Canva para juntar o texto a imagem e alterar fonte e tamanho da letra e por último, utilizei o Clipchamp para
+juntar os arquivos em um só.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Assista ao vídeo no YouTube](https://youtube.com/shorts/05x6sHB16o0)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi uma ótima experiência!
+Foi necessário explorar vários tipos de IA's diferentes, utilizar a criatividade e fazer ajustes nos prompts para alançar bons resultados.
 
 ### Exemplos e Insigths
 
